@@ -5,6 +5,12 @@ monitorGrey = document.getElementById('monitor-grey')
 //Change this array
 //to keys you want to test
 comboKeys = ['W','A','S','D', 'Up', 'Down', 'Left', 'Right']
+//**********************
+// Key sets under consideration
+//************************
+// ['W','A','S','D', 'Up', 'Down', 'Left', 'Right']
+//  ['Q','W','R','F', 'SPACE']
+// ['S', 'R', 'F', 'SPACE']
 
 nextCombo = ['A','E','F','SPACE'];
 loggedCombo = [];
