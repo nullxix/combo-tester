@@ -1,0 +1,36 @@
+body {
+    background: lightsteelblue;
+}
+
+#monitor {
+    background: lightskyblue;
+    margin: 20% auto;
+    width: 30%;
+    height: 15vh;
+    text-align: center;
+    line-height: 90px;
+}
+
+#monitor-red{
+    color: rgb(139, 41, 41);
+}
+#monitor-grey{
+    color: rgb(96, 96, 122)
+}
+
+#next {
+    background: lightgoldenrodyellow;
+    margin: auto;
+    top: 55%;
+    width: 25%;
+    height: 7vh;
+    text-align: center;
+    line-height: 40px;
+}
+
+#keys {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 20px;
+}
